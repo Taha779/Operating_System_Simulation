@@ -1,0 +1,40 @@
+The covered rubrics in the Java operating system project code typically include criteria for evaluating process management, file management, 
+user interface design, and overall functionality. Key aspects may involve the implementation of scheduling algorithms, code efficiency, 
+user interaction, and error handling. For detailed rubrics, you may refer to specific grading documents or assessment rubrics available online.
+
+- **Process Management Evaluation**:
+  - Ability to create, destroy, suspend, and resume processes.
+  - Implementation of various scheduling algorithms (FCFS, SJF, Round Robin, etc.).
+  - Correct handling of process states (Ready, Running, Blocked, Suspended).
+  - Efficiency in managing process priorities and execution.
+
+  
+- **File Management Evaluation**:
+  - Functionality to create, delete, and manage files and directories.
+  - Capability to read from and write to files.
+  - Proper handling of file permissions and directory navigation.
+  - Implementation of file movement between directories.
+
+  
+- **User  Interface Design**:
+  - Clarity and usability of the command-line interface.
+  - Effectiveness of the menu system for navigation.
+  - Input validation and error handling to enhance user experience.
+
+  
+- **Code Quality and Efficiency**:
+  - Adherence to coding standards and best practices.
+  - Use of appropriate data structures (e.g., ArrayList, HashMap).
+  - Overall code organization and modularity for maintainability.
+
+  
+- **Functionality and Performance**:
+  - Correctness of the implemented features and algorithms.
+  - Performance metrics such as execution time and resource utilization.
+  - Robustness of the application under various input scenarios.
+
+  
+- **Documentation and Comments**:
+  - Clarity and completeness of code comments.
+  - Quality of project documentation, including setup instructions and usage guidelines.
+  - Inclusion of a README file that outlines project objectives and features.
